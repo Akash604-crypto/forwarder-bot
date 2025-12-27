@@ -1,9 +1,9 @@
-API_ID = 123456
-API_HASH = "YOUR_API_HASH"
+API_ID = 35343847
+API_HASH = "f85d7a640630d63430fc34ca424a518f"
 
-CHANNEL1 = "https://t.me/your_channel1"
-BOT1_USERNAME = "SomeOtherBot"
-YOUR_BOT_USERNAME = "YourBotUsername"
+CHANNEL1 = "https://t.me/+5ryEASHiFtE2MjRi"
+BOT1_USERNAME = "@Terabof5bot"
+YOUR_BOT_USERNAME = "@Forwarjdjd_bot"
 
 SAFE_DELAY = 3  # seconds
 REPLY_TIMEOUT = 60
